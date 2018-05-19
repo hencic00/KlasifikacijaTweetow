@@ -19,7 +19,7 @@ if (not api):
 	sys.exit(-1)
 
 
-searchQuery = 'hillary clinton'
+searchQuery = ':D :) =) =D :-) :-D'
 destinationFolder = "tweets/" + searchQuery
 maxTweets = 100000000
 maxTweetsPerFile = 20000
